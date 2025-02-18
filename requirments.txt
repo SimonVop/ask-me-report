@@ -1,0 +1,11 @@
+streamlit as st
+Embedding
+Extraction
+Authent
+csv
+pdfplumber
+requests
+json
+torch
+pandas
+transformers
